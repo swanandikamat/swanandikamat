@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Swanandi 👋
 
-<!--
-**swanandikamat/swanandikamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Engineering Student
+- 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
+- 🐍 Working with Python and AI models
+- 🌱 Currently learning advanced AI and building real-world projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Git & GitHub
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Mood Detection System (ML-based)
+- AI-based internship match-making
+- Career guidance system
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/swanandi-kamat-86aa152a6/
+- Email: swanandikamat5@gmail.com
